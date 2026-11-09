@@ -9,6 +9,4 @@
 
 ## Как запустить
 
-    pip install pytest requests pytest-playwright
-    playwright install
-    pytest -v
+    на pip install -r requirements.txt
